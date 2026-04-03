@@ -1,0 +1,20 @@
+ /*
+MY COLOR PALETTE
+Color 1 - #E6AF2E
+Color 2 - #632B30
+Color 3 - #2274A5
+Color 4 - #E7EB90
+Color 5 - #FADF63
+*/
+body{
+  background-color: #FADF63;
+    
+}
+button{
+    background-color: red;
+    color: white;
+    font-size: 30px;
+        border: none;
+        width: 200px
+}
+
