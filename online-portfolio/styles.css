@@ -24,7 +24,7 @@ h1{
         letter-spacing: -0.7px;
         font-weight: bold;
         text-transform: uppercase;
-       color: #f0edde;
+       color: #eddf98;
         padding: 10px 0px 0px 20px;
     font-size:100px;
         
@@ -50,7 +50,7 @@ button{
     border-bottom: 1px solid beige;
 }
     #button {
-    background-color:#E56B6F;
+    background-color:#EDD3C5;
     border:0px;
     border-radius: 10px;
     padding:10px 30px 10px 30px;
