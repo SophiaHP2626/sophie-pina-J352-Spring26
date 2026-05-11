@@ -1,0 +1,123 @@
+/*Colors*/
+/*beige* #fad8b7/
+/*black* #000000/
+/*white*/
+/*lemmonchiffon*/
+/*#457979*/
+
+h1 {
+    font-family: "Oswald", sans-serif;
+    font-weight: 1000;
+    letter-spacing: -1px;
+    padding: 30px 30px 30px 30px;
+    width: 100%;
+    color: #457979;
+    background-color: #e8eaf8;
+    text-align: center;
+}
+
+#topper {
+    background-image: url(png);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+}
+
+#background {
+    background-color: #000000;
+}
+
+#map {
+    float: right;
+    width: 30%;
+    padding: 10px 10px 10px 10px;
+}
+#Quote {
+    background-color: #fad8b7;
+    width: 100%;
+    padding: 30px 50px 30px 50px;
+    color: #457979;
+    font-weight: 1000;
+}
+#quote_ident {
+    color: #457979;
+}
+
+#Snow {
+    float: right;
+    width: 25%;
+    padding: 10px 10px 10px 10px;
+}
+
+#tornado {
+    float: left;
+    width: 30%;
+    padding: 10px 10px 10px 10px;
+}
+
+#Blizzard {
+    text-align: left;
+}
+
+#three {
+    margin-bottom: 40px;
+}
+
+#WhatElse {
+    margin-bottom: 40px;
+}
+h2 {
+    font-family: "Oswald", sans-serif;
+    color: #457979;
+    font-weight: bolder;
+    margin: px auto 10px auto;
+    text-align: center;
+    margin-bottom: 70px;
+    margin-top: 70px;
+}
+
+#flourishembeded {
+    width: 50%;
+    max-width: 900px;
+    padding: 10px 10px 10px 10px;
+}
+h3 {
+    font-family: "Oswald", sans-serif;
+    color: #457979;
+    margin: px auto 10px auto;
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+p {
+    font-family: "Public Sans", sans-serif;
+    width: 100%;
+    color: lemonchiffon;
+    margin-bottom: 70px;
+    text-align: center;
+    margin: 0px auto 10px auto;
+}
+
+h4 {
+    font-family: "Oswald", sans-serif;
+    color: lemonchiffon;
+    margin: px auto 10px auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+@media (min-width: 576px) and (max-width: 991px) {
+    h1 {
+        font-size: 36px;
+        line-height: 1.25;
+        text-align: center;
+    }
+}
+
+@media (min-width: 992px) {
+    h1 {
+        font-size: 48px;
+        line-height: 1.2;
+        text-align: center;
+    }
+}
